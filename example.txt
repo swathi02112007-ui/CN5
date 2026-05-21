@@ -1,0 +1,8 @@
+Hello Server,
+
+This is a sample text file used for HTTP file upload testing in the Computer Networks lab experiment.
+
+File upload test successful.
+
+Regards,
+Swathi
